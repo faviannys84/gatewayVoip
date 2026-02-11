@@ -1,0 +1,5 @@
+Flask
+SQLAlchemy
+pyroute2
+requests
+netifaces
